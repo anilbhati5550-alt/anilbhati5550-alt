@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Anil%20Bhati&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Web%20Developer&descAlignY=55" width="100%"/>
 
 <a href="https://github.com/anilbhati5550-alt">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=CS+Student;Web+Developer;DSA+%26+Problem+Solving;Building+AI-Powered+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=CS+Student;Web+Developer;DSA;+%26+Problem+Solving;Building+AI-Powered+Apps" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=anilbhati5550-alt&color=7dd3fc&style=flat" alt="Profile views"/>
